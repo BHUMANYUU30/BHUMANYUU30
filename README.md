@@ -95,7 +95,7 @@ Git • Docker • JWT • Postman • AWS (Basics) • Linux • Machine Learni
 
 ## 🚀 Featured Projects
 
-### 📱 **Money Manager App (Android – Kotlin)**
+### 📱 **Money Manager App**
 
 Personal finance tracker with Room DB, analytics & charts
 **Tech:** Kotlin, MVVM, Room, LiveData, Jetpack Libraries

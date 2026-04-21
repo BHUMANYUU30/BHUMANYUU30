@@ -1,11 +1,10 @@
 
-
 # 👋 Hi, I'm **Bhumanyu Bharti**
 
-### 🚀 Full Stack Java Developer | Android Developer | M.Tech in Artificial Intelligence (NIT Bhopal)
+### 🚀 Full Stack Java Developer | AI Enthusiast | M.Tech @ Maulana Azad National Institute of Technology
 
-I'm a passionate developer who enjoys building real-world applications using **Java, Spring Boot, React, Android (Kotlin), and AI/ML**.
-Currently pursuing **M.Tech in AI at NIT Bhopal**, I love backend engineering, full-stack systems, Android apps, and practical machine-learning projects.
+I build **scalable backend systems and AI-powered applications** with a focus on performance, clean architecture, and real-world impact.
+Currently pursuing **M.Tech in Artificial Intelligence**, I specialize in **Spring Boot microservices, REST APIs, and applied Machine Learning**.
 
 ---
 
@@ -27,12 +26,11 @@ Currently pursuing **M.Tech in AI at NIT Bhopal**, I love backend engineering, f
 
 ## 👨‍💻 About Me
 
-* 🎓 **M.Tech in Artificial Intelligence — NIT Bhopal (Expected 2027)**
-* 🎓 **B.Tech in Computer Science — Priyadarshini College of Engineering**
-* 🔭 Currently working on **Money Manager App**, full-stack Java systems, and AI mini projects
-* 🌱 Learning **Android Development (Kotlin + Jetpack)**
-* 💬 Ask me about **Java, Spring Boot, Android, React, REST APIs, MySQL, ML basics**
-* 📫 Email: **[bhumanyubharti@gmail.com](mailto:bhumanyubharti@gmail.com)**
+* 🎓 M.Tech in Artificial Intelligence (2024–2027)
+* 💡 Strong focus on **Backend Development + AI integration**
+* 🔭 Building **scalable Java systems, REST APIs, and ML-driven apps**
+* 🌱 Exploring **LLMs, RAG systems, and system design**
+* 💬 Ask me about **Spring Boot, APIs, Databases, ML fundamentals**
 
 ---
 
@@ -40,85 +38,83 @@ Currently pursuing **M.Tech in AI at NIT Bhopal**, I love backend engineering, f
 
 ### **Languages**
 
-Java • JavaScript • Python • SQL • Kotlin
+Java • Python • JavaScript • SQL
 
-### **Frameworks & Libraries**
+### **Backend & Frameworks**
 
-Spring Boot • Hibernate • React.js • Jetpack Compose • Android (Kotlin)
+Spring Boot • Hibernate • REST APIs • Microservices
+
+### **Frontend**
+
+React.js
 
 ### **Databases**
 
-MySQL • PostgreSQL • Firebase
+MySQL • PostgreSQL
 
-### **Tools & Technologies**
+### **Tools**
 
-Git • Docker • JWT • Postman • AWS (Basics) • Linux • Machine Learning
+Docker • Git • Postman • AWS (Basics) • Linux
+
+### **AI/ML**
+
+Scikit-learn • Pandas • NumPy • Model Evaluation • Data Processing
 
 ---
 
 ## 💼 Experience
 
-### 🔹 **Intern — Webdroid Edutech LLP**
+### 🔹 Intern — Webdroid Edutech LLP
 
-* Developed full-stack modules for enterprise apps
-* Implemented REST APIs, authentication & dashboards
-* Improved UI/UX using React & Bootstrap
+* Built scalable backend modules for enterprise applications
+* Designed and implemented REST APIs with authentication
+* Improved UI performance and user experience
 
-### 🔹 **Intern — Euskills**
+### 🔹 Intern — Euskills
 
-* Built backend automation systems & data flows
-* Designed secure API structures with RBAC
-* Optimized routing & API performance
+* Developed backend automation workflows
+* Implemented **secure RBAC-based API systems**
+* Optimized API response time and routing
 
-### 🔹 **Volunteer — QuickHeal Foundation & CyberWarrior**
+### 🔹 Volunteer — QuickHeal Foundation & CyberWarrior
 
-* Trained **1.5+ lakh students** on cybersecurity & online safety
-* Conducted workshops & awareness programs
-
----
-
-## 🏅 Certifications
-
-(Updated — removed the ones you asked to remove)
-
-* Java (Basic + Advanced)
-* Spring Boot REST API Development
-* Hibernate & JPA
-* React.js Frontend Certification
-* Full Stack Web Development (Java + React)
-* Cyber Awareness Certification (QuickHeal Foundation)
-* Machine Learning Basics
-* Python for Data Science
-* Intro to Deep Learning
+* Delivered cybersecurity awareness to **150,000+ students**
+* Conducted technical workshops and training sessions
 
 ---
 
-## 🚀 Featured Projects
-
-### 📱 **Money Manager App**
-
-Personal finance tracker with Room DB, analytics & charts
-**Tech:** Kotlin, MVVM, Room, LiveData, Jetpack Libraries
+## 🚀 Key Projects
 
 ### 🏨 **Hotel Booking System**
 
-Full-stack hotel booking with JWT auth & dashboards
-**Tech:** Spring Boot, React.js, MySQL
+* Developed a **full-stack booking platform** with JWT authentication
+* Implemented role-based access and real-time booking logic
+* Improved booking success rate through optimized APIs
+  **Tech:** Spring Boot, React, MySQL
+
+---
+
+### 📱 **Money Manager App**
+
+* Designed a **personal finance tracking system** with analytics
+* Implemented structured data handling and real-time updates
+  **Tech:** Android, MVVM, Room
+
+---
 
 ### 🏋️ **FitFinder**
 
-Search gyms, trainers, physiotherapists
-**Tech:** React.js, Node.js
+* Built a platform to discover gyms, trainers, and fitness services
+* Integrated location-based search and filtering
+  **Tech:** React, Node.js
+
+---
 
 ### 🍔 **FudOnline**
 
-Food ordering system with restaurant panel
-**Tech:** React, Spring Boot, MySQL
-
-### 🧾 **Online Billing System**
-
-Invoice + product management system
-**Tech:** Java, MySQL
+* Developed a **multi-role food ordering system**
+* Implemented admin dashboard and order tracking
+  **Tech:** Spring Boot, React, MySQL
 
 ---
 
@@ -136,8 +132,18 @@ Invoice + product management system
 
 ---
 
-## 👀 Profile Views
+## 🎯 What I’m Looking For
 
-<img src="https://komarev.com/ghpvc/?username=BHUMANYUU30&label=Profile%20Views&color=blue&style=flat-square" />
+* Backend Developer Internships (Java / Spring Boot)
+* AI/ML Internship Opportunities
+* Projects involving **LLMs, RAG, or scalable systems**
 
 ---
+
+## ⚡ Highlights
+
+* 💻 Built multiple **full-stack production-level applications**
+* 🔐 Strong understanding of **authentication, security, and APIs**
+* 📈 Focused on **performance optimization & clean architecture**
+* 🧠 Bridging **Backend + AI (GenAI focus)**
+
